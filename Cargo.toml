@@ -1,7 +1,8 @@
 [package]
-name = "eve"
+name = "trix"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+const_format = "0.2.34"
 crossterm = "0.29.0"

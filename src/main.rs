@@ -1,4 +1,4 @@
-use eve::Editor;
+use trix::Editor;
 
 fn main() {
     Editor::default().run();
